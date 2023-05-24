@@ -1,0 +1,3800 @@
+{
+    "id": 1,
+    "createdDate": "2023-02-16 17:18:17",
+    "crashDateTime": "2023-02-16 12:31:28",
+    "userID": 1,
+    "caseNumber": "9257934A-BF8F-E6B0-8014-8DAC646E77E8",
+    "referencePositionLat": "39.71344",
+    "referencePositionLon": "-8.72955",
+    "notes": null,
+    "participantVehicles": [
+        {
+            "id": 1,
+            "mainParticipant": 1,
+            "idProcessHeader": 1,
+            "idVehicleBrand": 1,
+            "idVehicleModel": 4,
+            "idVehicleCategory": 1,
+            "horsePower": 99,
+            "enginePower": 99,
+            "engineCubicCapacity": "1.6L I4",
+            "plate": "AA-00-AA",
+            "idPlateCountry": 1,
+            "color": "Black",
+            "additionalWeight": null,
+            "notes": null,
+            "finalPositionLat": "39.77675",
+            "finalPositionLon": "-8.76134",
+            "fabricationYear": 2017,
+            "displacement": 1598,
+            "vehicleShape": "Hatchback",
+            "weight": 1330,
+            "length": 170.5,
+            "width": 69.9,
+            "height": 57.1,
+            "trackWidthFront": 60.2,
+            "trackWidthRear": 60.6,
+            "wheelbase": 2600,
+            "groundClearence": 15.2,
+            "frontOverhang": 870,
+            "cogHeight": 560,
+            "distanceCOGFrontAxle": 965,
+            "turningCircle": 10.2,
+            "maxVelocity": 200,
+            "driveMode": "FWD",
+            "axlesNumber": 2,
+            "gearsNumber": 6,
+            "axleRatio": 4.11,
+            "transmissionRatio": {
+                "first": 3.17,
+                "third": 1.26,
+                "second": 1.87
+            },
+            "rpmAtMaxPower": 6400,
+            "maxRpm": 6400,
+            "maxEngineTorque": 160,
+            "rpmAtMaxTorque": 4400,
+            "tireDimensions": "205/55 R16",
+            "acceleration1to100": 10.1,
+            "vehicleBrand": {
+                "id": 1,
+                "name": "Toyota",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:35",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "vehicleModel": {
+                "id": 4,
+                "idVehicleBrand": 1,
+                "name": "Auris",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:36",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "plateCountry": {
+                "id": 1,
+                "name": "Portugal",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:36",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "vehicleDrivers": [
+                {
+                    "id": 1,
+                    "idParticipantVehicle": 1,
+                    "gender": "M",
+                    "height": 167,
+                    "weight": 60,
+                    "age": 38,
+                    "alcoholInfluence": 0,
+                    "narcoticsInfluence": 0,
+                    "fatigue": 0,
+                    "idStature": 1,
+                    "notes": null
+                }
+            ],
+            "vehicleOccupants": [
+                {
+                    "id": 1,
+                    "idParticipantVehicle": 1,
+                    "position": "Rear Left",
+                    "idStature": 1,
+                    "weight": 50,
+                    "age": 49,
+                    "notes": null
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "mainParticipant": 0,
+            "idProcessHeader": 1,
+            "idVehicleBrand": 2,
+            "idVehicleModel": 7,
+            "idVehicleCategory": 1,
+            "horsePower": 130,
+            "enginePower": 130,
+            "engineCubicCapacity": "2.0L Duratec",
+            "plate": "AA-00-AA",
+            "idPlateCountry": 1,
+            "color": "Blue",
+            "additionalWeight": null,
+            "notes": null,
+            "finalPositionLat": "39.76613",
+            "finalPositionLon": "-8.86145",
+            "fabricationYear": 2005,
+            "displacement": 2000,
+            "vehicleShape": "Sedan",
+            "weight": 1192,
+            "length": 4382,
+            "width": 1702,
+            "height": 1420,
+            "trackWidthFront": 1468,
+            "trackWidthRear": 1458,
+            "wheelbase": 2550,
+            "groundClearence": 144,
+            "frontOverhang": 819,
+            "cogHeight": 557,
+            "distanceCOGFrontAxle": 1558,
+            "turningCircle": 10.8,
+            "maxVelocity": 218,
+            "driveMode": "FWD",
+            "axlesNumber": 2,
+            "gearsNumber": 5,
+            "axleRatio": 4.06,
+            "transmissionRatio": {
+                "first": 3.67,
+                "third": 1.33,
+                "second": 2.07
+            },
+            "rpmAtMaxPower": 6000,
+            "maxRpm": 6300,
+            "maxEngineTorque": 153,
+            "rpmAtMaxTorque": 4250,
+            "tireDimensions": "195/55 R15",
+            "acceleration1to100": 9.9,
+            "vehicleBrand": {
+                "id": 2,
+                "name": "Ford",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:35",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "vehicleModel": {
+                "id": 7,
+                "idVehicleBrand": 2,
+                "name": "Focus 2005",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:36",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "plateCountry": {
+                "id": 1,
+                "name": "Portugal",
+                "createdBy": 1,
+                "createdDate": "2023-02-16 17:16:36",
+                "updatedBy": null,
+                "updatedDate": null
+            },
+            "vehicleDrivers": [
+                {
+                    "id": 2,
+                    "idParticipantVehicle": 2,
+                    "gender": "F",
+                    "height": 195,
+                    "weight": 76,
+                    "age": 29,
+                    "alcoholInfluence": 0,
+                    "narcoticsInfluence": 0,
+                    "fatigue": 0,
+                    "idStature": 1,
+                    "notes": null
+                }
+            ],
+            "vehicleOccupants": []
+        }
+    ],
+    "dataSources": [
+        {
+            "id": 1,
+            "idCDRData": 1,
+            "selected": "cdr",
+            "idProcessHeader": 1,
+            "idParticipantVehicle": 1,
+            "isEnviromentData": 0,
+            "idMobileData": null,
+            "createdDate": "2023-02-16 17:18:17",
+            "idITSJsonData": null,
+            "idWeatherData": null,
+            "cDRData": {
+                "id": 1,
+                "userVin": "VNKKD3D320A408598",
+                "userName": "andre",
+                "caseNumber": null,
+                "edrDataImagingDate": "2022-09-26 00:00:00",
+                "crashDate": null,
+                "filename": "VNKKD3D320A408598_ACM.CDRX",
+                "savedOn": "2022-09-26 15:21:00",
+                "imagedCDRVersion": "Crash Data Retrieval Tool 21.5.1",
+                "reportedCDRVersion": "Crash Data Retrieval Tool 21.5.1",
+                "edrDeviceType": "Airbag Control Module",
+                "events": "Front/Rear (1), Side (2)",
+                "dataLimitations": null,
+                "cDRPreCrashData": [
+                    {
+                        "id": 1,
+                        "idCDRData": 1,
+                        "time": -4.85,
+                        "speedMPH": null,
+                        "speedKMH": 80,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 1.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.144,
+                        "stabilityControlYawRate": 0,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 2,
+                        "idCDRData": 1,
+                        "time": -4.35,
+                        "speedMPH": null,
+                        "speedKMH": 80,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 0,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.215,
+                        "stabilityControlYawRate": -0.49,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 3,
+                        "idCDRData": 1,
+                        "time": -3.85,
+                        "speedMPH": null,
+                        "speedKMH": 80,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 0,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.215,
+                        "stabilityControlYawRate": -0.49,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 4,
+                        "idCDRData": 1,
+                        "time": -3.35,
+                        "speedMPH": null,
+                        "speedKMH": 80,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 0,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.072,
+                        "stabilityControlYawRate": -0.98,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 5,
+                        "idCDRData": 1,
+                        "time": -2.85,
+                        "speedMPH": null,
+                        "speedKMH": 80,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 1.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.287,
+                        "stabilityControlYawRate": 0,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 6,
+                        "idCDRData": 1,
+                        "time": -2.35,
+                        "speedMPH": null,
+                        "speedKMH": 79,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 1.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -0.144,
+                        "stabilityControlYawRate": 0,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 7,
+                        "idCDRData": 1,
+                        "time": -1.85,
+                        "speedMPH": null,
+                        "speedKMH": 79,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 1.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": 0,
+                        "stabilityControlYawRate": 0.49,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 8,
+                        "idCDRData": 1,
+                        "time": -1.35,
+                        "speedMPH": null,
+                        "speedKMH": 79,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 0,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": 0,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": 0,
+                        "stabilityControlYawRate": 0.49,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 9,
+                        "idCDRData": 1,
+                        "time": -0.85,
+                        "speedMPH": null,
+                        "speedKMH": 77,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 1,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": -4.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -4.666,
+                        "stabilityControlYawRate": -4.88,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 10,
+                        "idCDRData": 1,
+                        "time": -0.35,
+                        "speedMPH": null,
+                        "speedKMH": 58,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 1,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": -90,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -6.676,
+                        "stabilityControlYawRate": -20.5,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    },
+                    {
+                        "id": 11,
+                        "idCDRData": 1,
+                        "time": 0,
+                        "speedMPH": null,
+                        "speedKMH": 59,
+                        "speedQualityFactor": null,
+                        "acceleratorPedalPercentage": null,
+                        "acceleratorPedalPercentageQualityFactor": null,
+                        "serviceBrake": 1,
+                        "serviceBrakeQualityFactor": null,
+                        "engineRPM": null,
+                        "absActivity": null,
+                        "brakePowertrainTorqueRequest": null,
+                        "brakePreChargeRequest": null,
+                        "brakeAssistSensivityLevel": null,
+                        "brakeDecelerationRequest": null,
+                        "brakeDecelerationRequestEnable": null,
+                        "wheelTorque": null,
+                        "driverGearSelect": null,
+                        "occupantSizeClassification": null,
+                        "extendedPowerStatus": null,
+                        "totalArbitratedTorque": null,
+                        "ignitionStatus": null,
+                        "speedControlStatus": null,
+                        "impactEventFeedbackStatus": null,
+                        "largeDriverSteeringOrAccelPedalInput": null,
+                        "collisionMitigationSystemFault": null,
+                        "cruiseControlDriverAcceleratorPedalOverride": null,
+                        "steeringWheelAngle": -58.5,
+                        "steeringWheelAngleQualityFactor": null,
+                        "stabilityControlLateralAcceleration": null,
+                        "stabilityControlLongitudinalAcceleration": -8.973,
+                        "stabilityControlYawRate": -17.08,
+                        "stabilityControlRollRate": null,
+                        "stabilityControlActive": null,
+                        "tractionControlViaEngine": null,
+                        "tractionControlViaBrakes": null
+                    }
+                ],
+                "cDRDataTables": [
+                    {
+                        "id": 1,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "VNKKD3D320A408598",
+                                    "labelName": "User Entered VIN/Frame Number"
+                                },
+                                {
+                                    "value": "andre",
+                                    "labelName": "User"
+                                },
+                                {
+                                    "value": "03",
+                                    "labelName": "Case Number"
+                                },
+                                {
+                                    "value": "09/26/2022",
+                                    "labelName": "EDR Data Imaging Date"
+                                },
+                                {
+                                    "value": "",
+                                    "labelName": "Crash Date"
+                                },
+                                {
+                                    "value": "VNKKD3D320A408598_ACM.CDRX",
+                                    "labelName": "Filename"
+                                },
+                                {
+                                    "value": "segunda-feira, setembro 26 2022 at 15:21:12",
+                                    "labelName": "Saved on"
+                                },
+                                {
+                                    "value": "Crash Data Retrieval Tool 21.5.1",
+                                    "labelName": "Imaged with CDR version"
+                                },
+                                {
+                                    "value": "Crash Data Retrieval Tool 21.5.1",
+                                    "labelName": "Reported with CDR version"
+                                },
+                                {
+                                    "value": "Airbag Control Module",
+                                    "labelName": "EDR Device Type"
+                                },
+                                {
+                                    "value": "Front/Rear (1), Side (2)",
+                                    "labelName": "Event(s) recovered"
+                                }
+                            ],
+                            "tableName": "CDR FILE INFORMATION"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "89170-0DC70",
+                                    "labelName": "ECU Part Number"
+                                },
+                                {
+                                    "value": "13EDR",
+                                    "labelName": "EDR Generation"
+                                },
+                                {
+                                    "value": "Yes",
+                                    "labelName": "Complete File Recorded"
+                                },
+                                {
+                                    "value": "ON",
+                                    "labelName": "Freeze Signal"
+                                },
+                                {
+                                    "value": "Front Airbag Deployment",
+                                    "labelName": "Freeze Signal Factor"
+                                },
+                                {
+                                    "value": "Yes",
+                                    "labelName": "Diagnostic Trouble Codes Exist"
+                                },
+                                {
+                                    "value": "410",
+                                    "labelName": "Ignition Cycle ,Download (times)"
+                                },
+                                {
+                                    "value": "2 or greater",
+                                    "labelName": "Multi-event, number of events (times)"
+                                },
+                                {
+                                    "value": "0.101",
+                                    "labelName": "Time from event 1 to 2 (s)"
+                                },
+                                {
+                                    "value": "16381 or greater",
+                                    "labelName": "Time from Previous Pre Crash TRG (msec)"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Latest Pre-Crash Page"
+                                },
+                                {
+                                    "value": "Yes",
+                                    "labelName": "Contains Unlinked Pre-Crash Data"
+                                }
+                            ],
+                            "tableName": "SYSTEM STATUS AT TIME OF RETRIEVAL"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "tableName": "EVENT RECORD SUMMARY AT RETRIEVAL",
+                            "tableRows": [
+                                {
+                                    "row": [
+                                        {
+                                            "value": "Most Recent Event"
+                                        },
+                                        {
+                                            "value": "10"
+                                        },
+                                        {
+                                            "value": "Side Crash"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Complete (Page 0)"
+                                        },
+                                        {
+                                            "value": "Complete (Side Page 0)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "1st Prior Event"
+                                        },
+                                        {
+                                            "value": "9"
+                                        },
+                                        {
+                                            "value": "Side Crash"
+                                        },
+                                        {
+                                            "value": "-101"
+                                        },
+                                        {
+                                            "value": "Complete (Page 0)"
+                                        },
+                                        {
+                                            "value": "Complete (Side Page 1)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "2nd Prior Event"
+                                        },
+                                        {
+                                            "value": "8"
+                                        },
+                                        {
+                                            "value": "Front/Rear Crash"
+                                        },
+                                        {
+                                            "value": "-106"
+                                        },
+                                        {
+                                            "value": "Complete (Page 0)"
+                                        },
+                                        {
+                                            "value": "Complete (Front/Rear Page 0)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "columnNames": [
+                                "Events Recorded",
+                                "TRG Count",
+                                "Crash Type",
+                                "Time (msec)",
+                                "Pre-Crash & DTC Data Recording Status",
+                                "Event & Crash Pulse Data Recording Status"
+                            ]
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Side Crash Info."
+                                },
+                                {
+                                    "value": "Side Crash",
+                                    "labelName": "Crash Type"
+                                },
+                                {
+                                    "value": "10",
+                                    "labelName": "TRG Count (times)"
+                                },
+                                {
+                                    "value": "Side Crash",
+                                    "labelName": "Previous Crash Type"
+                                },
+                                {
+                                    "value": "103",
+                                    "labelName": "Time from Pre-Crash TRG (msec)"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Linked Pre-Crash Page"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Side Airbag Deployment, Time to Deploy (If Equipped) (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Side Curtain Airbag Deployment, Time to Deploy (If Equipped) (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Pretensioner Deployment, Time to Fire (msec)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Rear Window Airbag Deployment, Time to Deploy (msec)"
+                                }
+                            ],
+                            "tableName": "SYSTEM STATUS AT EVENT (MOST RECENT EVENT, TRG 10)"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Time Series Data"
+                                },
+                                {
+                                    "value": "Left Side",
+                                    "labelName": "Recorded Side"
+                                },
+                                {
+                                    "value": "1",
+                                    "labelName": "Time from TRG to Next Sample (msec)"
+                                },
+                                {
+                                    "value": "Front Door",
+                                    "labelName": "Location of Side Satellite Sensor 1"
+                                },
+                                {
+                                    "value": "B-Pillar",
+                                    "labelName": "Location of Side Satellite Sensor 2"
+                                },
+                                {
+                                    "value": "Not Equipped",
+                                    "labelName": "Location of Side Satellite Sensor 3"
+                                },
+                                {
+                                    "value": "C-Pillar",
+                                    "labelName": "Location of Side Satellite Sensor 4"
+                                },
+                                {
+                                    "value": "Airbag ECU",
+                                    "labelName": "Location of Floor Sensor"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 1 (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 2 (msec)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 3 (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 4 (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Floor Sensor (msec)"
+                                }
+                            ],
+                            "tableName": "LATERAL CRASH PULSE (MOST RECENT EVENT, TRG 10 - TABLE 1 OF 2)"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "tableName": "LATERAL CRASH PULSE (MOST RECENT EVENT, TRG 10 - TABLE 2 OF 2)",
+                            "tableRows": [
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-23"
+                                        },
+                                        {
+                                            "value": "-57.5"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-71.9"
+                                        },
+                                        {
+                                            "value": "26.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-19"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-28.7"
+                                        },
+                                        {
+                                            "value": "-1.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-15"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-11"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "5.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-7"
+                                        },
+                                        {
+                                            "value": "95.8"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "5.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-3"
+                                        },
+                                        {
+                                            "value": "76.6"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "-9.6"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "1"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "15.3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "5"
+                                        },
+                                        {
+                                            "value": "-57.5"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "9"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "13"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "-11.5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "17"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "-17.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "21"
+                                        },
+                                        {
+                                            "value": "38.3"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-11.5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "25"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-11.5"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "29"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "33"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "37"
+                                        },
+                                        {
+                                            "value": "-57.5"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "41"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-1.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "45"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "49"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "53"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "57"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-1.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "61"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-1.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "65"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "69"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-5.7"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "columnNames": [
+                                "Time (msec)",
+                                "Lateral Acceleration, Side Satellite Sensor 1 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 2 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 3 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 4 (m/sec^2)",
+                                "Lateral Acceleration for Side Crash, Floor Sensor (m/sec^2)"
+                            ]
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Diagnostic"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Ignition Cycle Since DTC was Set (times)"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Airbag Warning Lamp ON Time Since DTC was Set (min)"
+                                },
+                                {
+                                    "value": "None",
+                                    "labelName": "Diagnostic Trouble Codes"
+                                }
+                            ],
+                            "tableName": "DTCS PRESENT AT TIME OF EVENT (MOST RECENT EVENT, TRG 10)"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Pre-Crash/Occupant"
+                                },
+                                {
+                                    "value": "350",
+                                    "labelName": "Time from Pre-Crash to TRG (msec)"
+                                },
+                                {
+                                    "value": "8",
+                                    "labelName": "TRG Count when Pre-crash TRG was Established (times)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Safety Belt Status, Driver"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Safety Belt Status, Front Passenger"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Occupant Size Classification, Front Passenger"
+                                },
+                                {
+                                    "value": "OFF (enable)",
+                                    "labelName": "Frontal Airbag Suppression Switch Status, Front Passenger"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "RSCA Disable Switch"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Seat Track Position Switch, Foremost, Status, Driver"
+                                },
+                                {
+                                    "value": "OFF",
+                                    "labelName": "Airbag Warning Lamp, On/Off"
+                                },
+                                {
+                                    "value": "368",
+                                    "labelName": "Ignition Cycle ,Crash (times)"
+                                }
+                            ],
+                            "tableName": "PRE-CRASH DATA, 1 SAMPLE (MOST RECENT EVENT, TRG 10)"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "tableName": "PRE-CRASH DATA, -5 TO 0 SECONDS (MOST RECENT EVENT, TRG 10)",
+                            "tableRows": [
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-4.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "23"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,000"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.144"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-4.35"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "25"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,100"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.215"
+                                        },
+                                        {
+                                            "value": "-0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-3.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "25.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.215"
+                                        },
+                                        {
+                                            "value": "-0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-3.35"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "26.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.072"
+                                        },
+                                        {
+                                            "value": "-0.98"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-2.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "27.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.287"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-2.35"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "28"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,300"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.144"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-1.85"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "30.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,300"
+                                        },
+                                        {
+                                            "value": "6,000"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0.49"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-1.35"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "31.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,400"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-0.85"
+                                        },
+                                        {
+                                            "value": "77"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,000"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "9.79"
+                                        },
+                                        {
+                                            "value": "-4.666"
+                                        },
+                                        {
+                                            "value": "-4.88"
+                                        },
+                                        {
+                                            "value": "-4.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-0.35"
+                                        },
+                                        {
+                                            "value": "58"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "800"
+                                        },
+                                        {
+                                            "value": "4,200"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "12.14"
+                                        },
+                                        {
+                                            "value": "-6.676"
+                                        },
+                                        {
+                                            "value": "-20.5"
+                                        },
+                                        {
+                                            "value": "-90"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "0 (TRG)"
+                                        },
+                                        {
+                                            "value": "59"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,000"
+                                        },
+                                        {
+                                            "value": "4,600"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "12.14"
+                                        },
+                                        {
+                                            "value": "-8.973"
+                                        },
+                                        {
+                                            "value": "-17.08"
+                                        },
+                                        {
+                                            "value": "-58.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "columnNames": [
+                                "Time (sec)",
+                                "Vehicle Speed (km/h)",
+                                "Accelerator Pedal, % Full (%)",
+                                "Percentage of Engine Throttle (%)",
+                                "Engine RPM (RPM)",
+                                "Motor RPM (RPM)",
+                                "Service Brake, ON/OFF",
+                                "Brake Oil Pressure (Mpa)",
+                                "Longitudinal Acceleration , VSC Sensor (m/sec^2)",
+                                "Yaw Rate (deg/sec)",
+                                "Steering Input (degrees)",
+                                "Shift Position",
+                                "Sequential Shift Range",
+                                "Cruise Control Status",
+                                "Drive Mode, PWR",
+                                "Drive Mode, ECO",
+                                "Drive Mode, Sport",
+                                "Drive Mode, Snow",
+                                "Drive Mode, EV",
+                                "Fuel Injection Quantity (mm3/st)"
+                            ]
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Side Crash Info."
+                                },
+                                {
+                                    "value": "Side Crash",
+                                    "labelName": "Crash Type"
+                                },
+                                {
+                                    "value": "9",
+                                    "labelName": "TRG Count (times)"
+                                },
+                                {
+                                    "value": "Front/Rear Crash",
+                                    "labelName": "Previous Crash Type"
+                                },
+                                {
+                                    "value": "2",
+                                    "labelName": "Time from Pre-Crash TRG (msec)"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Linked Pre-Crash Page"
+                                },
+                                {
+                                    "value": "26",
+                                    "labelName": "Side Airbag Deployment, Time to Deploy (If Equipped) (msec)"
+                                },
+                                {
+                                    "value": "26",
+                                    "labelName": "Side Curtain Airbag Deployment, Time to Deploy (If Equipped) (msec)"
+                                },
+                                {
+                                    "value": "26",
+                                    "labelName": "Pretensioner Deployment, Time to Fire (msec)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Rear Window Airbag Deployment, Time to Deploy (msec)"
+                                }
+                            ],
+                            "tableName": "SYSTEM STATUS AT EVENT (1ST PRIOR EVENT, TRG 9)"
+                        }
+                    },
+                    {
+                        "id": 11,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Time Series Data"
+                                },
+                                {
+                                    "value": "Left Side",
+                                    "labelName": "Recorded Side"
+                                },
+                                {
+                                    "value": "2",
+                                    "labelName": "Time from TRG to Next Sample (msec)"
+                                },
+                                {
+                                    "value": "Front Door",
+                                    "labelName": "Location of Side Satellite Sensor 1"
+                                },
+                                {
+                                    "value": "B-Pillar",
+                                    "labelName": "Location of Side Satellite Sensor 2"
+                                },
+                                {
+                                    "value": "Not Equipped",
+                                    "labelName": "Location of Side Satellite Sensor 3"
+                                },
+                                {
+                                    "value": "C-Pillar",
+                                    "labelName": "Location of Side Satellite Sensor 4"
+                                },
+                                {
+                                    "value": "Airbag ECU",
+                                    "labelName": "Location of Floor Sensor"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 1 (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 2 (msec)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 3 (msec)"
+                                },
+                                {
+                                    "value": "No",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Side Satellite Sensor 4 (msec)"
+                                },
+                                {
+                                    "value": "16",
+                                    "labelName": "Clipping Time of Lateral Acceleration, Floor Sensor (msec)"
+                                }
+                            ],
+                            "tableName": "LATERAL CRASH PULSE (1ST PRIOR EVENT, TRG 9 - TABLE 1 OF 2)"
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "tableName": "LATERAL CRASH PULSE (1ST PRIOR EVENT, TRG 9 - TABLE 2 OF 2)",
+                            "tableRows": [
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-22"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-18"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-14"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-10"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-6"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "3.8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "7.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "2"
+                                        },
+                                        {
+                                            "value": "19.2"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "13.4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "6"
+                                        },
+                                        {
+                                            "value": "38.3"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "9.6"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "10"
+                                        },
+                                        {
+                                            "value": "38.3"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "28.7"
+                                        },
+                                        {
+                                            "value": "17.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "14"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "86.2"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "43.1"
+                                        },
+                                        {
+                                            "value": "65.1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "18"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "-71.9"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "43.1"
+                                        },
+                                        {
+                                            "value": "132.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "22"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "14.4"
+                                        },
+                                        {
+                                            "value": "174.3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "26"
+                                        },
+                                        {
+                                            "value": "95.8"
+                                        },
+                                        {
+                                            "value": "316.2"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "129.3"
+                                        },
+                                        {
+                                            "value": "143.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "30"
+                                        },
+                                        {
+                                            "value": "363.9"
+                                        },
+                                        {
+                                            "value": "258.7"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "74.7"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "34"
+                                        },
+                                        {
+                                            "value": "-134.1"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "43.1"
+                                        },
+                                        {
+                                            "value": "132.2"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "38"
+                                        },
+                                        {
+                                            "value": "-421.4"
+                                        },
+                                        {
+                                            "value": "143.7"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "57.5"
+                                        },
+                                        {
+                                            "value": "80.4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "42"
+                                        },
+                                        {
+                                            "value": "-38.3"
+                                        },
+                                        {
+                                            "value": "143.7"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "86.2"
+                                        },
+                                        {
+                                            "value": "137.9"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "46"
+                                        },
+                                        {
+                                            "value": "440.5"
+                                        },
+                                        {
+                                            "value": "158.1"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "71.9"
+                                        },
+                                        {
+                                            "value": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "50"
+                                        },
+                                        {
+                                            "value": "268.2"
+                                        },
+                                        {
+                                            "value": "115"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "100.6"
+                                        },
+                                        {
+                                            "value": "23"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "54"
+                                        },
+                                        {
+                                            "value": "38.3"
+                                        },
+                                        {
+                                            "value": "129.3"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "86.2"
+                                        },
+                                        {
+                                            "value": "-61.3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "58"
+                                        },
+                                        {
+                                            "value": "325.6"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "-61.3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "62"
+                                        },
+                                        {
+                                            "value": "134.1"
+                                        },
+                                        {
+                                            "value": "71.9"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "28.7"
+                                        },
+                                        {
+                                            "value": "-90"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "66"
+                                        },
+                                        {
+                                            "value": "114.9"
+                                        },
+                                        {
+                                            "value": "43.1"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "-43.1"
+                                        },
+                                        {
+                                            "value": "-82.4"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "70"
+                                        },
+                                        {
+                                            "value": "-19.2"
+                                        },
+                                        {
+                                            "value": "-14.4"
+                                        },
+                                        {
+                                            "value": "SNA"
+                                        },
+                                        {
+                                            "value": "28.7"
+                                        },
+                                        {
+                                            "value": "-44.1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "columnNames": [
+                                "Time (msec)",
+                                "Lateral Acceleration, Side Satellite Sensor 1 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 2 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 3 (m/sec^2)",
+                                "Lateral Acceleration, Side Satellite Sensor 4 (m/sec^2)",
+                                "Lateral Acceleration for Side Crash, Floor Sensor (m/sec^2)"
+                            ]
+                        }
+                    },
+                    {
+                        "id": 13,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Diagnostic"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Ignition Cycle Since DTC was Set (times)"
+                                },
+                                {
+                                    "value": "0",
+                                    "labelName": "Airbag Warning Lamp ON Time Since DTC was Set (min)"
+                                },
+                                {
+                                    "value": "None",
+                                    "labelName": "Diagnostic Trouble Codes"
+                                }
+                            ],
+                            "tableName": "DTCS PRESENT AT TIME OF EVENT (1ST PRIOR EVENT, TRG 9)"
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "values": [
+                                {
+                                    "value": "Complete",
+                                    "labelName": "Recording Status, Pre-Crash/Occupant"
+                                },
+                                {
+                                    "value": "350",
+                                    "labelName": "Time from Pre-Crash to TRG (msec)"
+                                },
+                                {
+                                    "value": "8",
+                                    "labelName": "TRG Count when Pre-crash TRG was Established (times)"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Safety Belt Status, Driver"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Safety Belt Status, Front Passenger"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Occupant Size Classification, Front Passenger"
+                                },
+                                {
+                                    "value": "OFF (enable)",
+                                    "labelName": "Frontal Airbag Suppression Switch Status, Front Passenger"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "RSCA Disable Switch"
+                                },
+                                {
+                                    "value": "SNA",
+                                    "labelName": "Seat Track Position Switch, Foremost, Status, Driver"
+                                },
+                                {
+                                    "value": "OFF",
+                                    "labelName": "Airbag Warning Lamp, On/Off"
+                                },
+                                {
+                                    "value": "368",
+                                    "labelName": "Ignition Cycle ,Crash (times)"
+                                }
+                            ],
+                            "tableName": "PRE-CRASH DATA, 1 SAMPLE (1ST PRIOR EVENT, TRG 9)"
+                        }
+                    },
+                    {
+                        "id": 15,
+                        "idCDRData": 1,
+                        "cdrTable": {
+                            "tableName": "PRE-CRASH DATA, -5 TO 0 SECONDS (1ST PRIOR EVENT, TRG 9)",
+                            "tableRows": [
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-4.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "23"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,000"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.144"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-4.35"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "25"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,100"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.215"
+                                        },
+                                        {
+                                            "value": "-0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-3.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "25.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.215"
+                                        },
+                                        {
+                                            "value": "-0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-3.35"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "26.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.072"
+                                        },
+                                        {
+                                            "value": "-0.98"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-2.85"
+                                        },
+                                        {
+                                            "value": "80"
+                                        },
+                                        {
+                                            "value": "27.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.287"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-2.35"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "28"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,300"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "-0.144"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-1.85"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "30.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,300"
+                                        },
+                                        {
+                                            "value": "6,000"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0.49"
+                                        },
+                                        {
+                                            "value": "1.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-1.35"
+                                        },
+                                        {
+                                            "value": "79"
+                                        },
+                                        {
+                                            "value": "31.5"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,400"
+                                        },
+                                        {
+                                            "value": "6,100"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "0.49"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-0.85"
+                                        },
+                                        {
+                                            "value": "77"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,200"
+                                        },
+                                        {
+                                            "value": "6,000"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "9.79"
+                                        },
+                                        {
+                                            "value": "-4.666"
+                                        },
+                                        {
+                                            "value": "-4.88"
+                                        },
+                                        {
+                                            "value": "-4.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "-0.35"
+                                        },
+                                        {
+                                            "value": "58"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "800"
+                                        },
+                                        {
+                                            "value": "4,200"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "12.14"
+                                        },
+                                        {
+                                            "value": "-6.676"
+                                        },
+                                        {
+                                            "value": "-20.5"
+                                        },
+                                        {
+                                            "value": "-90"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": "0 (TRG)"
+                                        },
+                                        {
+                                            "value": "59"
+                                        },
+                                        {
+                                            "value": "0"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        },
+                                        {
+                                            "value": "1,000"
+                                        },
+                                        {
+                                            "value": "4,600"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "12.14"
+                                        },
+                                        {
+                                            "value": "-8.973"
+                                        },
+                                        {
+                                            "value": "-17.08"
+                                        },
+                                        {
+                                            "value": "-58.5"
+                                        },
+                                        {
+                                            "value": "D"
+                                        },
+                                        {
+                                            "value": "Undetermined"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "ON"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "OFF"
+                                        },
+                                        {
+                                            "value": "Invalid"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "row": [
+                                        {
+                                            "value": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "columnNames": [
+                                "Time (sec)",
+                                "Vehicle Speed (km/h)",
+                                "Accelerator Pedal, % Full (%)",
+                                "Percentage of Engine Throttle (%)",
+                                "Engine RPM (RPM)",
+                                "Motor RPM (RPM)",
+                                "Service Brake, ON/OFF",
+                                "Brake Oil Pressure (Mpa)",
+                                "Longitudinal Acceleration , VSC Sensor (m/sec^2)",
+                                "Yaw Rate (deg/sec)",
+                                "Steering Input (degrees)",
+                                "Shift Position",
+                                "Sequential Shift Range",
+                                "Cruise Control Status",
+                                "Drive Mode, PWR",
+                                "Drive Mode, ECO",
+                                "Drive Mode, Sport",
+                                "Drive Mode, Snow",
+                                "Drive Mode, EV",
+                                "Fuel Injection Quantity (mm3/st)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
